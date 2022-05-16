@@ -1,0 +1,1 @@
+const hub = '<h1>나는 HUB page</h1>'

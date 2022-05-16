@@ -1,1 +1,0 @@
-const about = `<h1>나는 About page.</h1>`
